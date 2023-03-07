@@ -21,7 +21,7 @@ test.describe('Testes de criação e login de usuários', () => {
         await Login.fillingDatas(userName, emailAddress, passwordRe)
         
     });
-    https://practice.automationbro.com
+    
     
 
 });
